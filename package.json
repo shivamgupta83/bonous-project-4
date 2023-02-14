@@ -1,23 +1,23 @@
 {
   "name": "bonusproject4",
   "version": "1.0.0",
-  "description": "hello my name is bhupendra",
+  "description": "hello",
   "main": "index.js",
-  "scripts": {
+  "scripts": {    
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx nodemon src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bhupendra2001/bonusproject4.git"
+    "url": "git+https://github.com/shivamgupta83/bonous-project-4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bhupendra2001/bonusproject4/issues"
+    "url": "https://github.com/shivamgupta83/bonous-project-4.git"
   },
-  "homepage": "https://github.com/Bhupendra2001/bonusproject4#readme",
+  "homepage": "https://github.com/shivamgupta83/bonous-project-4#readme",
   "dependencies": {
     "express": "^4.18.2",
     "moment": "^2.29.4",
